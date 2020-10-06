@@ -1,2 +1,0 @@
-This is beginning of git-demo
-adding one more line
